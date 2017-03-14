@@ -1,2 +1,0 @@
-# nerdcoin
-A cryptocurrency.
